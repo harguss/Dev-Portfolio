@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "I'm Susan Hargus and I am an aspiring software developer. Although my background is in fine art, specifically painting portraits and landscapes, I have always been interested in technology and programming. I decided to pursue a career in software development because I believe that my creativity and problem-solving skills, honed through my fine art training, will be valuable assets in this field. I am currently work in HTML, CSS, and JavaScript, and I am eager to continue learning and expanding my skil lset in order to become a valuable asset to any development team. I am excited about the opportunity to work with a company that values creativity and problem-solving in its employees. I believe that my background in fine art will bring a unique perspective to the software development process, and I am confident that I can make a valuable contribution to any team. Thank you for considering me for a position at your company.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,12 +11,15 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Children's Theatre Website",
+        "startDate": "2021",
+        "description": "This website...",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/p2.jpg",
+          "images/portfolio/animal-shelter/p3.jpg",
+          "images/portfolio/animal-shelter/p4.jpg",
+          "images/portfolio/animal-shelter/p5.jpg"
         ],
         "url": "",
         "technologies": [
@@ -35,8 +38,8 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
+        "title": "Shopping Website",
+        "startDate": "2021",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
           "images/portfolio/photography/p1.jpg",
@@ -55,13 +58,15 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
+        "title": "Small Business Website",
+        "startDate": "2021",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
           "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/adventure/p2.jpg",
+          "images/portfolio/adventure/p3.jpg"
         ],
+        
         "url": "https://github.com",
         "technologies": [
           {

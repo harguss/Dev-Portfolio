@@ -16,7 +16,8 @@ html {
 }
 
 .title-container {
-	height: 50px;
+	height: 150px;
+	font-size: 20px;
 }
 
 .title-styles {
@@ -50,6 +51,7 @@ header {
 
 header .nav {
 	font: 18px/24px 'opensans-bold', sans-serif;
+	color: #1F1F1F;
 	text-transform: uppercase;
 	letter-spacing: 5px;
 }
@@ -93,7 +95,7 @@ header .nav {
 }
 
 header h1 {
-	font-size: 400%;
+	font-size: 600%;
 	text-align: center;
 	font-weight: 600 !important;
 	color: #353239;
@@ -418,10 +420,10 @@ footer {
 	background: #1F1F1F;
 	min-height: 100px;
 	width: 100%;
-	overflow: hidden;
-	font-size: 14px;
+	// overflow: hidden;
+	font-size: 22px;
 	color: white;
-	position: relative;
+	// position: relative;
 	text-align: center;
 }
 
